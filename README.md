@@ -2,7 +2,7 @@
 
 ### What is SimSyn?
 
-SimSyn is an icon-based tool for linking System Dynamics models developed in Vensim to datasets in PostgreSQL. It provides functionality for spanning large numbers of independent simulations over multidimensional data space. 
+SimSyn is an icon-based tool for linking System Dynamics models developed in Vensim PLE to datasets in PostgreSQL. It provides functionality for spanning large numbers of independent simulations over multidimensional data space. 
 
 ### Why using SimSyn?
 
