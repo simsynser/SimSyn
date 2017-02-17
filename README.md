@@ -17,7 +17,7 @@ tbd
 See the [software documentation](https://github.com/simsynser/SimSyn/wiki) to get information on:
 
  * [Installation](https://github.com/simsynser/SimSyn/wiki/Installation)
- * Input data
+ * [Input data](https://github.com/simsynser/SimSyn/wiki/Input-data)
  * Output data
  * Run a simulation
  * Interpret and query outputs
