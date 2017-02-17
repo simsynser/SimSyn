@@ -14,7 +14,16 @@ tbd
 
 ### Resources
 
-See the [software documentation](https://github.com/simsynser/SimSyn/wiki).
+See the [software documentation](https://github.com/simsynser/SimSyn/wiki) to get information on:
+
+ * Installation
+ * Input data
+ * Output data
+ * Run a simulation
+ * Interpret and query outputs
+ * Error handling
+ * Software performance
+ 
 
 If you use SimSyn in any published work, please consider citing the following article:
 
