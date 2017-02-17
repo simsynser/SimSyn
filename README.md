@@ -18,8 +18,8 @@ See the [software documentation](https://github.com/simsynser/SimSyn/wiki) to ge
 
  * [Installation](https://github.com/simsynser/SimSyn/wiki/Installation)
  * [Input data](https://github.com/simsynser/SimSyn/wiki/Input-data)
- * Output data
  * Run a simulation
+ * Output data
  * Interpret and query outputs
  * Error handling
  * Software performance
