@@ -19,7 +19,6 @@ See the [software documentation](https://github.com/simsynser/SimSyn/wiki) to ge
  * [Installation](https://github.com/simsynser/SimSyn/wiki/Installation)
  * [Input data](https://github.com/simsynser/SimSyn/wiki/Input-data)
  * [Run a simulation](https://github.com/simsynser/SimSyn/wiki/Run-a-simulation)
- * Output data
  * Interpret and query outputs
  * Error handling
  * Software performance
