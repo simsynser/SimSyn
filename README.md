@@ -14,7 +14,7 @@ tbd
 
 ### Resources
 
-See the ~~software documentation~~ (sorry is not finished yet).
+See the [software documentation](https://github.com/simsynser/SimSyn/wiki).
 
 If you use SimSyn in any published work, please consider citing the following article:
 
