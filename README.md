@@ -26,4 +26,6 @@ See the [software documentation](https://github.com/simsynser/SimSyn/wiki) to ge
 
 If you use SimSyn in any published work, please consider citing the following article:
 
+Neuwirth (under review) ......
+
  
