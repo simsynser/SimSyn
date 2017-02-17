@@ -19,13 +19,13 @@ See the [software documentation](https://github.com/simsynser/SimSyn/wiki) to ge
  * [Installation](https://github.com/simsynser/SimSyn/wiki/Installation)
  * [Input data](https://github.com/simsynser/SimSyn/wiki/Input-data)
  * [Run a simulation](https://github.com/simsynser/SimSyn/wiki/Run-a-simulation)
- * Interpret and query outputs
- * Error handling
- * Software performance
+ * [Interpret and query outputs](https://github.com/simsynser/SimSyn/wiki/Interpret-and-query-outputs)
+ * [Error handling](https://github.com/simsynser/SimSyn/wiki/Error-handling)
+ * [Software performance](https://github.com/simsynser/SimSyn/wiki/Software-performance)
  
 
 If you use SimSyn in any published work, please consider citing the following article:
 
-Neuwirth (under review) ......
+[Neuwirth (under review)](https://github.com/simsynser/SimSyn/wiki/References)
 
  
