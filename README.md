@@ -10,7 +10,7 @@ There are a number of System Dynamics programs providing database access (e.g. V
 
 ### Example Simulations
 
-tbd
+tba
 
 ### Resources
 
@@ -26,6 +26,6 @@ See the [software documentation](https://github.com/simsynser/SimSyn/wiki) to ge
 
 If you use SimSyn in any published work, please consider citing the following article:
 
-[Neuwirth (under review)](https://github.com/simsynser/SimSyn/wiki/References)
+[tba](https://github.com/simsynser/SimSyn/wiki/References)
 
  
