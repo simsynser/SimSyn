@@ -24,8 +24,8 @@ See the [software documentation](https://github.com/simsynser/SimSyn/wiki) to ge
  * [Software performance](https://github.com/simsynser/SimSyn/wiki/Software-performance)
  
 
-If you use SimSyn in any published work, please consider citing the following article:
+If you use SimSyn in any published work, please consider citing the following articles:
 
-[tba](https://github.com/simsynser/SimSyn/wiki/References)
+[References](https://github.com/simsynser/SimSyn/wiki/References)
 
  
