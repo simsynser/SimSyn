@@ -24,8 +24,10 @@ See the [software documentation](https://github.com/simsynser/SimSyn/wiki) to ge
  * [Software performance](https://github.com/simsynser/SimSyn/wiki/Software-performance)
  
 
-If you use SimSyn in any published work, please consider citing the following articles:
+If you use SimSyn in any published work, please consider citing the following article:
 
-[References](https://github.com/simsynser/SimSyn/wiki/References)
+Neuwirth, C., 2017. System dynamics simulations for data-intensive applications. Environ. Model. Softw. 96, 140–145.
+
+[Further references](https://github.com/simsynser/SimSyn/wiki/References)
 
  
